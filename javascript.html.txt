@@ -1,0 +1,14 @@
+function showAddress(address) {
+      if (geoCoder) {
+        geoCoder.getLatLng(
+          address,
+          function(point) {
+            if (!point) {
+              alert(address + " não encontrado"); 
+          } else {
+              map.setCenter(point, 13);
+            }
+          }
+        );
+      }
+    }

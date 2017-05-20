@@ -1,0 +1,30 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Configuração de Cedente</title>
+</head>
+<body>
+<center>
+<table border=1 width=70%>
+<tr><td colspan=2><b><ul><li>Clique no botão "Gerar Licença" para iniciar o download do arquivo de licença para o Cedente abaixo;</li>
+<li>Após clicar no botão "Gerar Licença" o Cedente identificado abaixo será associado às chaves de licença informadas e não poderá mais ser trocado;</li>
+<li>Você poderá configurar novos Bancos/carteiras para este mesmo Cedente sempre que desejar;</li>
+<li>Clique no botão "Alterar Dados" para voltar para a página anterior;</li>
+<li>Será exibido o conteúdo da linha "Cedente" abaixo no campo destinado a identificação do mesmo em todos os boletos;</li>
+<li>Os dados das linhas "CEP" e "Ramo de Atividade" abaixo não serão exibidos nos boletos.</li></ul></b></td></tr>
+<tr><td colspan=2><center><font color="#FF0000"><b>Sessão Inválida</b></font></center></td></tr>
+<tr><td valign=top><b>Chaves de Licença:</b></td><td><br></td></tr>
+<tr><td valign=top><b>Cedente:</b></td><td><b></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small></small></td></tr>
+<tr><td valign=top><b>CEP/Estado/Cidade:</b></td><td>&nbsp;&nbsp;&nbsp;&nbsp;<small></small></td></tr>
+<tr><td valign=top><b>Ramo de Atividade:</b></td><td>&nbsp;&nbsp;</td></tr>
+<tr><td valign=top><b>Banco:</b></td><td></td></tr>
+<tr><td valign=top><b>Carteira:</b></td><td></td></tr>
+<tr><td colspan=2><br><center><form method=post action="http://www.cobrebem.com/cgi-bin/CCAL/CCAL"><input type=hidden name=SESSIONID value="">
+<input type=hidden name=IdentificacaoPagina value=PGL><input type=submit name=GERARLICENCA value="Gerar Licença"></form>
+<form method=post action="http://www.cobrebem.com/cgi-bin/CCAL/CCAL"><input type=hidden name=SESSIONID value="20090908144712175">
+<input type=hidden name=IdentificacaoPagina value=PGL><input type=submit name=ALTERARDADOS value="Alterar Dados"></form></center></td></tr>
+</table>
+</form>
+</center>
+</body>
+</html>

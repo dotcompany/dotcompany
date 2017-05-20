@@ -1,0 +1,1 @@
+Gravar todas os arquivos de nota fiscal eletronica gerada pelo sistema nessa pasta

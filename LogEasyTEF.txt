@@ -1,0 +1,2565 @@
+
+19/08/2010 19:14:03 - REQUISI플O AO V&SPague
+sequencial="1"
+servico="iniciar"
+retorno="1"
+
+
+19/08/2010 19:14:03 - RESPOSTA
+sequencial="1"
+retorno="5"
+mensagem="Aplicacao invalida ou inexistente."
+servico="iniciar"
+
+
+
+
+
+19/08/2010 19:14:03 - REQUISI플O AO V&SPague
+sequencial="2"
+servico="executar"
+retorno="1"
+transacao="Cartao Vender"
+transacao_valor="70.00"
+
+
+19/08/2010 19:15:46 - RESPOSTA
+transacao_valor_taxa_servico="0"
+sequencial="2"
+transacao_nsu="506454"
+retorno="0"
+transacao_pagamento="A vista"
+transacao_autorizacao="144717"
+transacao_rede="Cielo"
+transacao_comprovante_2via="/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+MENSAGEM TBL 9X
+Sixnet
+Av.J.K.1830 - Torre 9And
+Sao Paulo - SP
+
+VISA
+Cielo
+<WCT>89639CF55110D91441E0220609AD7C67</WCT>-12/10
+2a VIA-ESTABELECIMENTO  AUT=144717
+
+0010000244470001/POS=41100000
+DOC=506454  17/07/09  14:37  ONL-D
+VENDA A CREDITO
+
+VALOR:                   70,00
+
+MENSAGEM TBL 7C
+
+____________________________________
+TESTE CARTAO 001
+
+
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+"
+transacao_vencimento="17/08/2009 14:32:09.625"
+transacao_administradora="VISA"
+estabelecimento_codigo="41100000"
+servico="executar"
+transacao_valor="70"
+terminal="T0180001"
+transacao_comprovante_1via="/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+MENSAGEM TBL 9X
+Sixnet
+Av.J.K.1830 - Torre 9And
+Sao Paulo - SP
+
+VISA
+Cielo
+<WCT>89639CF55110D91441E0220609AD7C67</WCT>-12/10
+1a VIA-CLIENTE          AUT=144717
+
+DOC=506454  17/07/09  14:37  ONL-D
+VENDA A CREDITO
+
+VALOR:                   70,00
+
+MENSAGEM TBL 7C
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+"
+loja="Loja018"
+transacao="Cartao Vender"
+estabelecimento="Sixnet"
+transacao_tipo_cartao="Credito"
+
+
+
+
+
+19/08/2010 19:15:46 - REQUISI플O AO V&SPague
+sequencial="3"
+servico="finalizar"
+retorno="1"
+
+
+19/08/2010 19:15:46 - RESPOSTA
+sequencial="3"
+retorno="1"
+servico="finalizar"
+
+
+
+
+
+19/08/2010 19:16:05 - REQUISI플O AO V&SPague
+sequencial="4"
+servico="iniciar"
+retorno="1"
+
+
+19/08/2010 19:16:05 - RESPOSTA
+sequencial="4"
+retorno="5"
+mensagem="Aplicacao invalida ou inexistente."
+servico="iniciar"
+
+
+
+
+
+19/08/2010 19:16:05 - REQUISI플O AO V&SPague
+sequencial="5"
+servico="executar"
+retorno="1"
+transacao="Cartao Vender"
+transacao_pagamento="A vista"
+transacao_tipo_cartao="Credito"
+transacao_valor="30.00"
+
+
+19/08/2010 19:16:33 - RESPOSTA
+transacao_valor_taxa_servico="0"
+sequencial="5"
+transacao_nsu="506454"
+retorno="0"
+transacao_pagamento="A vista"
+transacao_autorizacao="144717"
+transacao_rede="Cielo"
+transacao_comprovante_2via="/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+MENSAGEM TBL 9X
+Sixnet
+Av.J.K.1830 - Torre 9And
+Sao Paulo - SP
+
+VISA
+Cielo
+<WCT>89639CF55110D91441E0220609AD7C67</WCT>-12/10
+2a VIA-ESTABELECIMENTO  AUT=144717
+
+0010000244470001/POS=41100000
+DOC=506454  17/07/09  14:37  ONL-D
+VENDA A CREDITO
+
+VALOR:                   32,00
+
+MENSAGEM TBL 7C
+
+____________________________________
+TESTE CARTAO 001
+
+
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+"
+transacao_vencimento="17/08/2009 14:32:09.625"
+transacao_administradora="VISA"
+estabelecimento_codigo="41100000"
+servico="executar"
+transacao_valor="30"
+terminal="T0180001"
+transacao_comprovante_1via="/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+MENSAGEM TBL 9X
+Sixnet
+Av.J.K.1830 - Torre 9And
+Sao Paulo - SP
+
+VISA
+Cielo
+<WCT>89639CF55110D91441E0220609AD7C67</WCT>-12/10
+1a VIA-CLIENTE          AUT=144717
+
+DOC=506454  17/07/09  14:37  ONL-D
+VENDA A CREDITO
+
+VALOR:                   32,00
+
+MENSAGEM TBL 7C
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+"
+loja="Loja018"
+transacao="Cartao Vender"
+estabelecimento="Sixnet"
+transacao_tipo_cartao="Credito"
+
+
+
+
+
+19/08/2010 19:16:33 - REQUISI플O AO V&SPague
+sequencial="6"
+servico="finalizar"
+retorno="1"
+
+
+19/08/2010 19:16:33 - RESPOSTA
+sequencial="6"
+retorno="1"
+servico="finalizar"
+
+
+
+
+
+19/08/2010 21:52:04 - REQUISI플O AO V&SPague
+sequencial="7"
+servico="iniciar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+19/08/2010 21:52:04 - RESPOSTA
+sequencial="7"
+retorno="1"
+servico="iniciar"
+versao="2.0.4"
+aplicacao="V&SPagueClient"
+
+
+
+
+
+19/08/2010 21:52:04 - REQUISI플O AO V&SPague
+sequencial="8"
+servico="executar"
+retorno="1"
+transacao="Cartao Vender"
+transacao_valor="150.00"
+
+
+19/08/2010 21:52:18 - RESPOSTA
+transacao_valor_taxa_servico="0"
+sequencial="8"
+transacao_nsu="506454"
+retorno="0"
+transacao_pagamento="A vista"
+transacao_autorizacao="144717"
+transacao_rede="Cielo"
+transacao_comprovante_2via="/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+MENSAGEM TBL 9X
+Sixnet
+Av.J.K.1830 - Torre 9And
+Sao Paulo - SP
+
+VISA
+Cielo
+<WCT>89639CF55110D91441E0220609AD7C67</WCT>-12/10
+2a VIA-ESTABELECIMENTO  AUT=144717
+
+0010000244470001/POS=41100000
+DOC=506454  17/07/09  14:37  ONL-D
+VENDA A CREDITO
+
+VALOR:                   150,00
+
+MENSAGEM TBL 7C
+
+____________________________________
+TESTE CARTAO 001
+
+
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+"
+transacao_vencimento="17/08/2009 14:32:09.625"
+transacao_administradora="VISA"
+estabelecimento_codigo="41100000"
+servico="executar"
+transacao_valor="150"
+terminal="T0180001"
+transacao_comprovante_1via="/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+MENSAGEM TBL 9X
+Sixnet
+Av.J.K.1830 - Torre 9And
+Sao Paulo - SP
+
+VISA
+Cielo
+<WCT>89639CF55110D91441E0220609AD7C67</WCT>-12/10
+1a VIA-CLIENTE          AUT=144717
+
+DOC=506454  17/07/09  14:37  ONL-D
+VENDA A CREDITO
+
+VALOR:                   150,00
+
+MENSAGEM TBL 7C
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+"
+loja="Loja018"
+transacao="Cartao Vender"
+estabelecimento="Sixnet"
+transacao_tipo_cartao="Credito"
+
+
+
+
+
+19/08/2010 21:52:18 - REQUISI플O AO V&SPague
+sequencial="9"
+servico="finalizar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+19/08/2010 21:52:18 - RESPOSTA
+sequencial="9"
+retorno="1"
+servico="finalizar"
+versao="11x"
+aplicacao="Dot Company"
+
+
+
+
+
+19/08/2010 21:52:32 - REQUISI플O AO V&SPague
+sequencial="10"
+servico="iniciar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+19/08/2010 21:52:33 - RESPOSTA
+sequencial="10"
+retorno="1"
+servico="iniciar"
+versao="2.0.4"
+aplicacao="V&SPagueClient"
+
+
+
+
+
+19/08/2010 21:52:33 - REQUISI플O AO V&SPague
+sequencial="11"
+servico="executar"
+retorno="1"
+transacao="Cartao Vender"
+transacao_pagamento="A vista"
+transacao_tipo_cartao="Credito"
+transacao_valor="180.22"
+
+
+19/08/2010 21:52:44 - RESPOSTA
+transacao_valor_taxa_servico="0"
+sequencial="11"
+transacao_nsu="506454"
+retorno="0"
+transacao_pagamento="A vista"
+transacao_autorizacao="144717"
+transacao_rede="Cielo"
+transacao_comprovante_2via="/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+MENSAGEM TBL 9X
+Sixnet
+Av.J.K.1830 - Torre 9And
+Sao Paulo - SP
+
+VISA
+Cielo
+<WCT>89639CF55110D91441E0220609AD7C67</WCT>-12/10
+2a VIA-ESTABELECIMENTO  AUT=144717
+
+0010000244470001/POS=41100000
+DOC=506454  17/07/09  14:37  ONL-D
+VENDA A CREDITO
+
+VALOR:                   180,22
+
+MENSAGEM TBL 7C
+
+____________________________________
+TESTE CARTAO 001
+
+
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+"
+transacao_vencimento="17/08/2009 14:32:09.625"
+transacao_administradora="VISA"
+estabelecimento_codigo="41100000"
+servico="executar"
+transacao_valor="180.22"
+terminal="T0180001"
+transacao_comprovante_1via="/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+MENSAGEM TBL 9X
+Sixnet
+Av.J.K.1830 - Torre 9And
+Sao Paulo - SP
+
+VISA
+Cielo
+<WCT>89639CF55110D91441E0220609AD7C67</WCT>-12/10
+1a VIA-CLIENTE          AUT=144717
+
+DOC=506454  17/07/09  14:37  ONL-D
+VENDA A CREDITO
+
+VALOR:                   180,22
+
+MENSAGEM TBL 7C
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+"
+loja="Loja018"
+transacao="Cartao Vender"
+estabelecimento="Sixnet"
+transacao_tipo_cartao="Credito"
+
+
+
+
+
+19/08/2010 21:52:44 - REQUISI플O AO V&SPague
+sequencial="12"
+servico="finalizar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+19/08/2010 21:52:44 - RESPOSTA
+sequencial="12"
+retorno="1"
+servico="finalizar"
+versao="11x"
+aplicacao="Dot Company"
+
+
+
+
+
+19/08/2010 21:54:53 - REQUISI플O AO V&SPague
+sequencial="13"
+servico="iniciar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+19/08/2010 21:54:53 - RESPOSTA
+sequencial="13"
+retorno="1"
+servico="iniciar"
+versao="2.0.4"
+aplicacao="V&SPagueClient"
+
+
+
+
+
+19/08/2010 21:54:53 - REQUISI플O AO V&SPague
+sequencial="8"
+servico="executar"
+retorno="0"
+transacao="Cartao Vender"
+
+
+19/08/2010 21:54:53 - RESPOSTA
+sequencial="8"
+retorno="1"
+servico="executar"
+transacao="Cartao Vender"
+
+
+
+
+
+19/08/2010 21:54:53 - REQUISI플O AO V&SPague
+sequencial="14"
+servico="iniciar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+19/08/2010 21:54:53 - RESPOSTA
+sequencial="14"
+retorno="1"
+servico="iniciar"
+versao="2.0.4"
+aplicacao="V&SPagueClient"
+
+
+
+
+
+19/08/2010 21:54:53 - REQUISI플O AO V&SPague
+sequencial="11"
+servico="executar"
+retorno="0"
+transacao="Cartao Vender"
+
+
+19/08/2010 21:54:54 - RESPOSTA
+sequencial="11"
+retorno="1"
+servico="executar"
+transacao="Cartao Vender"
+
+
+
+
+
+19/08/2010 21:54:54 - REQUISI플O AO V&SPague
+sequencial="15"
+servico="finalizar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+19/08/2010 21:54:54 - RESPOSTA
+sequencial="15"
+retorno="1"
+servico="finalizar"
+versao="11x"
+aplicacao="Dot Company"
+
+
+
+
+
+19/08/2010 22:21:48 - REQUISI플O AO V&SPague
+sequencial="16"
+servico="iniciar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+19/08/2010 22:21:48 - RESPOSTA
+sequencial="16"
+retorno="1"
+servico="iniciar"
+versao="2.0.4"
+aplicacao="V&SPagueClient"
+
+
+
+
+
+19/08/2010 22:21:48 - REQUISI플O AO V&SPague
+sequencial="17"
+servico="executar"
+retorno="1"
+transacao="Cartao Vender"
+transacao_valor="150.00"
+
+
+19/08/2010 22:22:00 - RESPOSTA
+transacao_valor_taxa_servico="0"
+sequencial="17"
+transacao_nsu="506454"
+retorno="0"
+transacao_pagamento="A vista"
+transacao_autorizacao="144717"
+transacao_rede="Cielo"
+transacao_comprovante_2via="/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+MENSAGEM TBL 9X
+Sixnet
+Av.J.K.1830 - Torre 9And
+Sao Paulo - SP
+
+VISA
+Cielo
+<WCT>89639CF55110D91441E0220609AD7C67</WCT>-12/10
+2a VIA-ESTABELECIMENTO  AUT=144717
+
+0010000244470001/POS=41100000
+DOC=506454  17/07/09  14:37  ONL-D
+VENDA A CREDITO
+
+VALOR:                   150,00
+
+MENSAGEM TBL 7C
+
+____________________________________
+TESTE CARTAO 001
+
+
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+"
+transacao_vencimento="17/08/2009 14:32:09.625"
+transacao_administradora="VISA"
+estabelecimento_codigo="41100000"
+servico="executar"
+transacao_valor="150"
+terminal="T0180001"
+transacao_comprovante_1via="/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+MENSAGEM TBL 9X
+Sixnet
+Av.J.K.1830 - Torre 9And
+Sao Paulo - SP
+
+VISA
+Cielo
+<WCT>89639CF55110D91441E0220609AD7C67</WCT>-12/10
+1a VIA-CLIENTE          AUT=144717
+
+DOC=506454  17/07/09  14:37  ONL-D
+VENDA A CREDITO
+
+VALOR:                   150,00
+
+MENSAGEM TBL 7C
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+"
+loja="Loja018"
+transacao="Cartao Vender"
+estabelecimento="Sixnet"
+transacao_tipo_cartao="Credito"
+
+
+
+
+
+19/08/2010 22:22:43 - REQUISI플O AO V&SPague
+sequencial="17"
+servico="executar"
+retorno="9"
+transacao="Cartao Vender"
+
+
+19/08/2010 22:22:43 - RESPOSTA
+sequencial="17"
+retorno="1"
+servico="executar"
+transacao="Cartao Vender"
+
+
+
+
+
+19/08/2010 22:23:30 - REQUISI플O AO V&SPague
+sequencial="18"
+servico="iniciar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+19/08/2010 22:23:30 - RESPOSTA
+sequencial="18"
+retorno="1"
+servico="iniciar"
+versao="2.0.4"
+aplicacao="V&SPagueClient"
+
+
+
+
+
+19/08/2010 22:23:30 - REQUISI플O AO V&SPague
+sequencial="19"
+servico="executar"
+retorno="1"
+transacao="Cartao Vender"
+transacao_valor="150.00"
+
+
+19/08/2010 22:23:45 - RESPOSTA
+transacao_valor_taxa_servico="0"
+sequencial="19"
+transacao_nsu="506454"
+retorno="0"
+transacao_pagamento="A vista"
+transacao_autorizacao="144717"
+transacao_rede="Cielo"
+transacao_comprovante_2via="/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+MENSAGEM TBL 9X
+Sixnet
+Av.J.K.1830 - Torre 9And
+Sao Paulo - SP
+
+VISA
+Cielo
+<WCT>89639CF55110D91441E0220609AD7C67</WCT>-12/10
+2a VIA-ESTABELECIMENTO  AUT=144717
+
+0010000244470001/POS=41100000
+DOC=506454  17/07/09  14:37  ONL-D
+VENDA A CREDITO
+
+VALOR:                   170,00
+
+MENSAGEM TBL 7C
+
+____________________________________
+TESTE CARTAO 001
+
+
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+"
+transacao_vencimento="17/08/2009 14:32:09.625"
+transacao_administradora="VISA"
+estabelecimento_codigo="41100000"
+servico="executar"
+transacao_valor="150"
+terminal="T0180001"
+transacao_comprovante_1via="/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+MENSAGEM TBL 9X
+Sixnet
+Av.J.K.1830 - Torre 9And
+Sao Paulo - SP
+
+VISA
+Cielo
+<WCT>89639CF55110D91441E0220609AD7C67</WCT>-12/10
+1a VIA-CLIENTE          AUT=144717
+
+DOC=506454  17/07/09  14:37  ONL-D
+VENDA A CREDITO
+
+VALOR:                   170,00
+
+MENSAGEM TBL 7C
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+"
+loja="Loja018"
+transacao="Cartao Vender"
+estabelecimento="Sixnet"
+transacao_tipo_cartao="Credito"
+
+
+
+
+
+19/08/2010 22:23:45 - REQUISI플O AO V&SPague
+sequencial="20"
+servico="finalizar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+19/08/2010 22:23:45 - RESPOSTA
+sequencial="20"
+retorno="1"
+servico="finalizar"
+versao="11x"
+aplicacao="Dot Company"
+
+
+
+
+
+19/08/2010 22:23:50 - REQUISI플O AO V&SPague
+sequencial="21"
+servico="iniciar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+19/08/2010 22:23:50 - RESPOSTA
+sequencial="21"
+retorno="1"
+servico="iniciar"
+versao="2.0.4"
+aplicacao="V&SPagueClient"
+
+
+
+
+
+19/08/2010 22:23:50 - REQUISI플O AO V&SPague
+sequencial="22"
+servico="executar"
+retorno="1"
+transacao="Cartao Vender"
+transacao_pagamento="A vista"
+transacao_tipo_cartao="Credito"
+transacao_valor="180.22"
+
+
+19/08/2010 22:24:12 - RESPOSTA
+transacao_valor_taxa_servico="0"
+sequencial="22"
+transacao_nsu="506454"
+retorno="0"
+transacao_pagamento="A vista"
+transacao_autorizacao="144717"
+transacao_rede="Cielo"
+transacao_comprovante_2via="/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+MENSAGEM TBL 9X
+Sixnet
+Av.J.K.1830 - Torre 9And
+Sao Paulo - SP
+
+VISA
+Cielo
+<WCT>89639CF55110D91441E0220609AD7C67</WCT>-12/10
+2a VIA-ESTABELECIMENTO  AUT=144717
+
+0010000244470001/POS=41100000
+DOC=506454  17/07/09  14:37  ONL-D
+VENDA A CREDITO
+
+VALOR:                   184,22
+
+MENSAGEM TBL 7C
+
+____________________________________
+TESTE CARTAO 001
+
+
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+"
+transacao_vencimento="17/08/2009 14:32:09.625"
+transacao_administradora="VISA"
+estabelecimento_codigo="41100000"
+servico="executar"
+transacao_valor="180.22"
+terminal="T0180001"
+transacao_comprovante_1via="/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+MENSAGEM TBL 9X
+Sixnet
+Av.J.K.1830 - Torre 9And
+Sao Paulo - SP
+
+VISA
+Cielo
+<WCT>89639CF55110D91441E0220609AD7C67</WCT>-12/10
+1a VIA-CLIENTE          AUT=144717
+
+DOC=506454  17/07/09  14:37  ONL-D
+VENDA A CREDITO
+
+VALOR:                   184,22
+
+MENSAGEM TBL 7C
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+"
+loja="Loja018"
+transacao="Cartao Vender"
+estabelecimento="Sixnet"
+transacao_tipo_cartao="Credito"
+
+
+
+
+
+19/08/2010 22:24:12 - REQUISI플O AO V&SPague
+sequencial="23"
+servico="finalizar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+19/08/2010 22:24:12 - RESPOSTA
+sequencial="23"
+retorno="1"
+servico="finalizar"
+versao="11x"
+aplicacao="Dot Company"
+
+
+
+
+
+19/08/2010 22:24:56 - REQUISI플O AO V&SPague
+sequencial="24"
+servico="iniciar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+19/08/2010 22:24:56 - RESPOSTA
+sequencial="24"
+retorno="1"
+servico="iniciar"
+versao="2.0.4"
+aplicacao="V&SPagueClient"
+
+
+
+
+
+19/08/2010 22:24:56 - REQUISI플O AO V&SPague
+sequencial="19"
+servico="executar"
+retorno="0"
+transacao="Cartao Vender"
+
+
+19/08/2010 22:24:56 - RESPOSTA
+sequencial="19"
+retorno="1"
+servico="executar"
+transacao="Cartao Vender"
+
+
+
+
+
+19/08/2010 22:24:56 - REQUISI플O AO V&SPague
+sequencial="25"
+servico="iniciar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+19/08/2010 22:24:56 - RESPOSTA
+sequencial="25"
+retorno="1"
+servico="iniciar"
+versao="2.0.4"
+aplicacao="V&SPagueClient"
+
+
+
+
+
+19/08/2010 22:24:56 - REQUISI플O AO V&SPague
+sequencial="22"
+servico="executar"
+retorno="0"
+transacao="Cartao Vender"
+
+
+19/08/2010 22:24:57 - RESPOSTA
+sequencial="22"
+retorno="1"
+servico="executar"
+transacao="Cartao Vender"
+
+
+
+
+
+19/08/2010 22:24:57 - REQUISI플O AO V&SPague
+sequencial="26"
+servico="finalizar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+19/08/2010 22:24:57 - RESPOSTA
+sequencial="26"
+retorno="1"
+servico="finalizar"
+versao="11x"
+aplicacao="Dot Company"
+
+
+
+
+
+19/08/2010 22:53:33 - REQUISI플O AO V&SPague
+sequencial="27"
+servico="iniciar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+19/08/2010 22:53:33 - RESPOSTA
+sequencial="27"
+retorno="1"
+servico="iniciar"
+versao="2.0.4"
+aplicacao="V&SPagueClient"
+
+
+
+
+
+19/08/2010 22:53:33 - REQUISI플O AO V&SPague
+sequencial="28"
+servico="executar"
+retorno="1"
+transacao="Cartao Vender"
+transacao_valor="330.22"
+
+
+19/08/2010 22:54:00 - RESPOSTA
+transacao_valor_taxa_servico="0"
+sequencial="28"
+transacao_nsu="506454"
+retorno="0"
+transacao_pagamento="A vista"
+transacao_autorizacao="144717"
+transacao_rede="Cielo"
+transacao_comprovante_2via="/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+MENSAGEM TBL 9X
+Sixnet
+Av.J.K.1830 - Torre 9And
+Sao Paulo - SP
+
+VISA
+Cielo
+<WCT>89639CF55110D91441E0220609AD7C67</WCT>-12/10
+2a VIA-ESTABELECIMENTO  AUT=144717
+
+0010000244470001/POS=41100000
+DOC=506454  17/07/09  14:37  ONL-D
+VENDA A CREDITO
+
+VALOR:                   330,22
+
+MENSAGEM TBL 7C
+
+____________________________________
+TESTE CARTAO 001
+
+
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+"
+transacao_vencimento="17/08/2009 14:32:09.625"
+transacao_administradora="VISA"
+estabelecimento_codigo="41100000"
+servico="executar"
+transacao_valor="330.22"
+terminal="T0180001"
+transacao_comprovante_1via="/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+MENSAGEM TBL 9X
+Sixnet
+Av.J.K.1830 - Torre 9And
+Sao Paulo - SP
+
+VISA
+Cielo
+<WCT>89639CF55110D91441E0220609AD7C67</WCT>-12/10
+1a VIA-CLIENTE          AUT=144717
+
+DOC=506454  17/07/09  14:37  ONL-D
+VENDA A CREDITO
+
+VALOR:                   330,22
+
+MENSAGEM TBL 7C
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+"
+loja="Loja018"
+transacao="Cartao Vender"
+estabelecimento="Sixnet"
+transacao_tipo_cartao="Credito"
+
+
+
+
+
+19/08/2010 22:54:23 - REQUISI플O AO V&SPague
+sequencial="28"
+servico="executar"
+retorno="0"
+transacao="Cartao Vender"
+
+
+19/08/2010 22:54:23 - RESPOSTA
+sequencial="28"
+retorno="1"
+servico="executar"
+transacao="Cartao Vender"
+
+
+
+
+
+19/08/2010 22:54:23 - REQUISI플O AO V&SPague
+sequencial="29"
+servico="finalizar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+19/08/2010 22:54:24 - RESPOSTA
+sequencial="29"
+retorno="1"
+servico="finalizar"
+versao="11x"
+aplicacao="Dot Company"
+
+
+
+
+
+20/08/2010 08:27:25 - REQUISI플O AO V&SPague
+sequencial="30"
+servico="iniciar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+20/08/2010 08:27:25 - RESPOSTA
+sequencial="30"
+retorno="1"
+servico="iniciar"
+versao="2.0.4"
+aplicacao="V&SPagueClient"
+
+
+
+
+
+20/08/2010 08:27:25 - REQUISI플O AO V&SPague
+sequencial="31"
+servico="executar"
+retorno="1"
+transacao="Cartao Vender"
+transacao_valor="100.00"
+
+
+20/08/2010 08:27:57 - RESPOSTA
+transacao_valor_taxa_servico="0"
+sequencial="31"
+transacao_nsu="506454"
+retorno="0"
+transacao_pagamento="A vista"
+transacao_autorizacao="144717"
+transacao_rede="Cielo"
+transacao_comprovante_2via="/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+MENSAGEM TBL 9X
+Sixnet
+Av.J.K.1830 - Torre 9And
+Sao Paulo - SP
+
+VISA
+Cielo
+<WCT>89639CF55110D91441E0220609AD7C67</WCT>-12/10
+2a VIA-ESTABELECIMENTO  AUT=144717
+
+0010000244470001/POS=41100000
+DOC=506454  17/07/09  14:37  ONL-D
+VENDA A CREDITO
+
+VALOR:                   100,00
+
+MENSAGEM TBL 7C
+
+____________________________________
+TESTE CARTAO 001
+
+
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+"
+transacao_vencimento="17/08/2009 14:32:09.625"
+transacao_administradora="VISA"
+estabelecimento_codigo="41100000"
+servico="executar"
+transacao_valor="100"
+terminal="T0180001"
+transacao_comprovante_1via="/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+MENSAGEM TBL 9X
+Sixnet
+Av.J.K.1830 - Torre 9And
+Sao Paulo - SP
+
+VISA
+Cielo
+<WCT>89639CF55110D91441E0220609AD7C67</WCT>-12/10
+1a VIA-CLIENTE          AUT=144717
+
+DOC=506454  17/07/09  14:37  ONL-D
+VENDA A CREDITO
+
+VALOR:                   100,00
+
+MENSAGEM TBL 7C
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+"
+loja="Loja018"
+transacao="Cartao Vender"
+estabelecimento="Sixnet"
+transacao_tipo_cartao="Credito"
+
+
+
+
+
+20/08/2010 08:27:57 - REQUISI플O AO V&SPague
+sequencial="32"
+servico="finalizar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+20/08/2010 08:27:57 - RESPOSTA
+sequencial="32"
+retorno="1"
+servico="finalizar"
+versao="11x"
+aplicacao="Dot Company"
+
+
+
+
+
+20/08/2010 08:27:58 - REQUISI플O AO V&SPague
+sequencial="33"
+servico="iniciar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+20/08/2010 08:27:59 - RESPOSTA
+sequencial="33"
+retorno="1"
+servico="iniciar"
+versao="2.0.4"
+aplicacao="V&SPagueClient"
+
+
+
+
+
+20/08/2010 08:27:59 - REQUISI플O AO V&SPague
+sequencial="34"
+servico="executar"
+retorno="1"
+transacao="Cartao Vender"
+transacao_pagamento="A vista"
+transacao_tipo_cartao="Credito"
+transacao_valor="180.22"
+
+
+20/08/2010 08:28:19 - RESPOSTA
+transacao_valor_taxa_servico="0"
+sequencial="34"
+transacao_nsu="506454"
+retorno="0"
+transacao_pagamento="A vista"
+transacao_autorizacao="144717"
+transacao_rede="Cielo"
+transacao_comprovante_2via="/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+MENSAGEM TBL 9X
+Sixnet
+Av.J.K.1830 - Torre 9And
+Sao Paulo - SP
+
+VISA
+Cielo
+<WCT>89639CF55110D91441E0220609AD7C67</WCT>-12/10
+2a VIA-ESTABELECIMENTO  AUT=144717
+
+0010000244470001/POS=41100000
+DOC=506454  17/07/09  14:37  ONL-D
+VENDA A CREDITO
+
+VALOR:                   180,22
+
+MENSAGEM TBL 7C
+
+____________________________________
+TESTE CARTAO 001
+
+
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+"
+transacao_vencimento="17/08/2009 14:32:09.625"
+transacao_administradora="VISA"
+estabelecimento_codigo="41100000"
+servico="executar"
+transacao_valor="180.22"
+terminal="T0180001"
+transacao_comprovante_1via="/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+MENSAGEM TBL 9X
+Sixnet
+Av.J.K.1830 - Torre 9And
+Sao Paulo - SP
+
+VISA
+Cielo
+<WCT>89639CF55110D91441E0220609AD7C67</WCT>-12/10
+1a VIA-CLIENTE          AUT=144717
+
+DOC=506454  17/07/09  14:37  ONL-D
+VENDA A CREDITO
+
+VALOR:                   180,22
+
+MENSAGEM TBL 7C
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+"
+loja="Loja018"
+transacao="Cartao Vender"
+estabelecimento="Sixnet"
+transacao_tipo_cartao="Credito"
+
+
+
+
+
+20/08/2010 08:28:19 - REQUISI플O AO V&SPague
+sequencial="35"
+servico="finalizar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+20/08/2010 08:28:19 - RESPOSTA
+sequencial="35"
+retorno="1"
+servico="finalizar"
+versao="11x"
+aplicacao="Dot Company"
+
+
+
+
+
+30/09/2010 19:57:49 - REQUISI플O AO V&SPague
+sequencial="30"
+servico="iniciar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+30/09/2010 19:57:49 - RESPOSTA
+sequencial="30"
+retorno="1"
+servico="iniciar"
+versao="2.0.4"
+aplicacao="V&SPagueClient"
+
+
+
+
+
+30/09/2010 19:57:49 - REQUISI플O AO V&SPague
+sequencial="31"
+servico="consultar"
+retorno="1"
+
+
+30/09/2010 19:57:49 - RESPOSTA
+sequencial="31"
+retorno="1"
+mensagem="Administracao Extrato";"Administracao Manutencao Rede";"Administracao Pendente";"Client Atualizar";"Client Ativar";"Client Desativar";"Cartao Vender";"Cartao Sacar";"Cartao Pre-autorizacao Solicitar";"Cartao Pre-autorizacao Capturar";"Cartao Fatura Pagar";"Cheque Consultar";"Administracao Reimprimir";"Conta Pagar";"Cartao Consultar Endereco";"Cartao Consultar Saldo";"Cartao Consultar Extrato";"Cartao Consultar Financiado";"Administracao Consultar";"Administracao Cancelar";"Administracao Manutencao Rede Consultar";"Cheque Bloquear";"Telefone Recarregar";"Lote Processar"
+servico="consultar"
+
+
+
+
+
+30/09/2010 19:57:49 - REQUISI플O AO V&SPague
+sequencial="32"
+servico="finalizar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+30/09/2010 19:57:49 - RESPOSTA
+sequencial="32"
+retorno="1"
+servico="finalizar"
+versao="11x"
+aplicacao="Dot Company"
+
+
+
+
+
+30/09/2010 19:58:23 - REQUISI플O AO V&SPague
+sequencial="33"
+servico="iniciar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+30/09/2010 19:58:23 - RESPOSTA
+sequencial="33"
+retorno="1"
+servico="iniciar"
+versao="2.0.4"
+aplicacao="V&SPagueClient"
+
+
+
+
+
+30/09/2010 19:58:23 - REQUISI플O AO V&SPague
+sequencial="34"
+servico="executar"
+retorno="1"
+transacao="Administracao Cancelar"
+
+
+30/09/2010 19:58:40 - RESPOSTA
+sequencial="34"
+retorno="3"
+mensagem="Transacao cancelada pelo operador."
+
+
+
+
+
+30/09/2010 19:58:42 - REQUISI플O AO V&SPague
+sequencial="35"
+servico="finalizar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+30/09/2010 19:58:42 - RESPOSTA
+sequencial="35"
+retorno="1"
+servico="finalizar"
+versao="11x"
+aplicacao="Dot Company"
+
+
+
+
+
+30/09/2010 19:58:53 - REQUISI플O AO V&SPague
+sequencial="36"
+servico="iniciar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+30/09/2010 19:58:53 - RESPOSTA
+sequencial="36"
+retorno="1"
+servico="iniciar"
+versao="2.0.4"
+aplicacao="V&SPagueClient"
+
+
+
+
+
+30/09/2010 19:58:53 - REQUISI플O AO V&SPague
+sequencial="37"
+servico="consultar"
+retorno="1"
+
+
+30/09/2010 19:58:53 - RESPOSTA
+sequencial="37"
+retorno="1"
+mensagem="Administracao Extrato";"Administracao Manutencao Rede";"Administracao Pendente";"Client Atualizar";"Client Ativar";"Client Desativar";"Cartao Vender";"Cartao Sacar";"Cartao Pre-autorizacao Solicitar";"Cartao Pre-autorizacao Capturar";"Cartao Fatura Pagar";"Cheque Consultar";"Administracao Reimprimir";"Conta Pagar";"Cartao Consultar Endereco";"Cartao Consultar Saldo";"Cartao Consultar Extrato";"Cartao Consultar Financiado";"Administracao Consultar";"Administracao Cancelar";"Administracao Manutencao Rede Consultar";"Cheque Bloquear";"Telefone Recarregar";"Lote Processar"
+servico="consultar"
+
+
+
+
+
+30/09/2010 19:58:53 - REQUISI플O AO V&SPague
+sequencial="38"
+servico="finalizar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+30/09/2010 19:58:54 - RESPOSTA
+sequencial="38"
+retorno="1"
+servico="finalizar"
+versao="11x"
+aplicacao="Dot Company"
+
+
+
+
+
+30/09/2010 20:02:18 - REQUISI플O AO V&SPague
+sequencial="39"
+servico="iniciar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+30/09/2010 20:02:18 - RESPOSTA
+sequencial="39"
+retorno="1"
+servico="iniciar"
+versao="2.0.4"
+aplicacao="V&SPagueClient"
+
+
+
+
+
+30/09/2010 20:02:18 - REQUISI플O AO V&SPague
+sequencial="40"
+servico="executar"
+retorno="1"
+transacao="Cartao Vender"
+transacao_valor="70.00"
+
+
+30/09/2010 20:03:35 - RESPOSTA
+transacao_valor_taxa_servico="0"
+sequencial="40"
+transacao_nsu="506454"
+retorno="0"
+transacao_pagamento="A vista"
+transacao_autorizacao="144717"
+transacao_rede="Cielo"
+transacao_comprovante_2via="/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+MENSAGEM TBL 9X
+Sixnet
+Av.J.K.1830 - Torre 9And
+Sao Paulo - SP
+
+VISA
+Cielo
+<WCT>89639CF55110D91441E0220609AD7C67</WCT>-12/10
+2a VIA-ESTABELECIMENTO  AUT=144717
+
+0010000244470001/POS=41100000
+DOC=506454  17/07/09  14:37  ONL-D
+VENDA A CREDITO
+
+VALOR:                   70,00
+
+MENSAGEM TBL 7C
+
+____________________________________
+TESTE CARTAO 001
+
+
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+"
+transacao_vencimento="17/08/2009 14:32:09.625"
+transacao_administradora="VISA"
+estabelecimento_codigo="41100000"
+servico="executar"
+transacao_valor="70"
+terminal="T0180001"
+transacao_comprovante_1via="/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+MENSAGEM TBL 9X
+Sixnet
+Av.J.K.1830 - Torre 9And
+Sao Paulo - SP
+
+VISA
+Cielo
+<WCT>89639CF55110D91441E0220609AD7C67</WCT>-12/10
+1a VIA-CLIENTE          AUT=144717
+
+DOC=506454  17/07/09  14:37  ONL-D
+VENDA A CREDITO
+
+VALOR:                   70,00
+
+MENSAGEM TBL 7C
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+"
+loja="Loja018"
+transacao="Cartao Vender"
+estabelecimento="Sixnet"
+transacao_tipo_cartao="Credito"
+
+
+
+
+
+30/09/2010 20:03:35 - REQUISI플O AO V&SPague
+sequencial="41"
+servico="finalizar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+30/09/2010 20:03:35 - RESPOSTA
+sequencial="41"
+retorno="1"
+servico="finalizar"
+versao="11x"
+aplicacao="Dot Company"
+
+
+
+
+
+30/09/2010 20:03:36 - REQUISI플O AO V&SPague
+sequencial="42"
+servico="iniciar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+30/09/2010 20:03:36 - RESPOSTA
+sequencial="42"
+retorno="1"
+servico="iniciar"
+versao="2.0.4"
+aplicacao="V&SPagueClient"
+
+
+
+
+
+30/09/2010 20:03:36 - REQUISI플O AO V&SPague
+sequencial="43"
+servico="executar"
+retorno="1"
+transacao="Cartao Vender"
+transacao_pagamento="A vista"
+transacao_tipo_cartao="Credito"
+transacao_valor="30.00"
+
+
+30/09/2010 20:04:00 - RESPOSTA
+transacao_valor_taxa_servico="0"
+sequencial="43"
+transacao_nsu="506454"
+retorno="0"
+transacao_pagamento="A vista"
+transacao_autorizacao="144717"
+transacao_rede="Cielo"
+transacao_comprovante_2via="/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+MENSAGEM TBL 9X
+Sixnet
+Av.J.K.1830 - Torre 9And
+Sao Paulo - SP
+
+VISA
+Cielo
+<WCT>89639CF55110D91441E0220609AD7C67</WCT>-12/10
+2a VIA-ESTABELECIMENTO  AUT=144717
+
+0010000244470001/POS=41100000
+DOC=506454  17/07/09  14:37  ONL-D
+VENDA A CREDITO
+
+VALOR:                   30,00
+
+MENSAGEM TBL 7C
+
+____________________________________
+TESTE CARTAO 001
+
+
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+"
+transacao_vencimento="17/08/2009 14:32:09.625"
+transacao_administradora="VISA"
+estabelecimento_codigo="41100000"
+servico="executar"
+transacao_valor="30"
+terminal="T0180001"
+transacao_comprovante_1via="/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+MENSAGEM TBL 9X
+Sixnet
+Av.J.K.1830 - Torre 9And
+Sao Paulo - SP
+
+VISA
+Cielo
+<WCT>89639CF55110D91441E0220609AD7C67</WCT>-12/10
+1a VIA-CLIENTE          AUT=144717
+
+DOC=506454  17/07/09  14:37  ONL-D
+VENDA A CREDITO
+
+VALOR:                   30,00
+
+MENSAGEM TBL 7C
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+"
+loja="Loja018"
+transacao="Cartao Vender"
+estabelecimento="Sixnet"
+transacao_tipo_cartao="Credito"
+
+
+
+
+
+30/09/2010 20:04:00 - REQUISI플O AO V&SPague
+sequencial="44"
+servico="finalizar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+30/09/2010 20:04:00 - RESPOSTA
+sequencial="44"
+retorno="1"
+servico="finalizar"
+versao="11x"
+aplicacao="Dot Company"
+
+
+
+
+
+30/09/2010 20:05:05 - REQUISI플O AO V&SPague
+sequencial="45"
+servico="iniciar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+30/09/2010 20:05:05 - RESPOSTA
+sequencial="45"
+retorno="1"
+servico="iniciar"
+versao="2.0.4"
+aplicacao="V&SPagueClient"
+
+
+
+
+
+30/09/2010 20:05:05 - REQUISI플O AO V&SPague
+sequencial="40"
+servico="executar"
+retorno="0"
+transacao="Cartao Vender"
+
+
+30/09/2010 20:05:06 - RESPOSTA
+sequencial="40"
+retorno="1"
+servico="executar"
+transacao="Cartao Vender"
+
+
+
+
+
+30/09/2010 20:05:06 - REQUISI플O AO V&SPague
+sequencial="46"
+servico="iniciar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+30/09/2010 20:05:06 - RESPOSTA
+sequencial="46"
+retorno="1"
+servico="iniciar"
+versao="2.0.4"
+aplicacao="V&SPagueClient"
+
+
+
+
+
+30/09/2010 20:05:06 - REQUISI플O AO V&SPague
+sequencial="43"
+servico="executar"
+retorno="0"
+transacao="Cartao Vender"
+
+
+30/09/2010 20:05:06 - RESPOSTA
+sequencial="43"
+retorno="1"
+servico="executar"
+transacao="Cartao Vender"
+
+
+
+
+
+30/09/2010 20:05:06 - REQUISI플O AO V&SPague
+sequencial="47"
+servico="finalizar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+30/09/2010 20:05:06 - RESPOSTA
+sequencial="47"
+retorno="1"
+servico="finalizar"
+versao="11x"
+aplicacao="Dot Company"
+
+
+
+
+
+01/10/2010 10:09:01 - REQUISI플O AO V&SPague
+sequencial="48"
+servico="iniciar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+01/10/2010 10:09:02 - RESPOSTA
+sequencial="48"
+retorno="1"
+servico="iniciar"
+versao="2.0.4"
+aplicacao="V&SPagueClient"
+
+
+
+
+
+01/10/2010 10:09:02 - REQUISI플O AO V&SPague
+sequencial="49"
+servico="consultar"
+retorno="1"
+
+
+01/10/2010 10:09:02 - RESPOSTA
+sequencial="49"
+retorno="1"
+mensagem="Administracao Extrato";"Administracao Manutencao Rede";"Administracao Pendente";"Client Atualizar";"Client Ativar";"Client Desativar";"Cartao Vender";"Cartao Sacar";"Cartao Pre-autorizacao Solicitar";"Cartao Pre-autorizacao Capturar";"Cartao Fatura Pagar";"Cheque Consultar";"Administracao Reimprimir";"Conta Pagar";"Cartao Consultar Endereco";"Cartao Consultar Saldo";"Cartao Consultar Extrato";"Cartao Consultar Financiado";"Administracao Consultar";"Administracao Cancelar";"Administracao Manutencao Rede Consultar";"Cheque Bloquear";"Telefone Recarregar";"Lote Processar"
+servico="consultar"
+
+
+
+
+
+01/10/2010 10:09:02 - REQUISI플O AO V&SPague
+sequencial="50"
+servico="finalizar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+01/10/2010 10:09:02 - RESPOSTA
+sequencial="50"
+retorno="1"
+servico="finalizar"
+versao="11x"
+aplicacao="Dot Company"
+
+
+
+
+
+01/10/2010 10:09:05 - REQUISI플O AO V&SPague
+sequencial="51"
+servico="iniciar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+01/10/2010 10:09:05 - RESPOSTA
+sequencial="51"
+retorno="1"
+servico="iniciar"
+versao="2.0.4"
+aplicacao="V&SPagueClient"
+
+
+
+
+
+01/10/2010 10:09:05 - REQUISI플O AO V&SPague
+sequencial="52"
+servico="consultar"
+retorno="1"
+
+
+01/10/2010 10:09:05 - RESPOSTA
+sequencial="52"
+retorno="1"
+mensagem="Administracao Extrato";"Administracao Manutencao Rede";"Administracao Pendente";"Client Atualizar";"Client Ativar";"Client Desativar";"Cartao Vender";"Cartao Sacar";"Cartao Pre-autorizacao Solicitar";"Cartao Pre-autorizacao Capturar";"Cartao Fatura Pagar";"Cheque Consultar";"Administracao Reimprimir";"Conta Pagar";"Cartao Consultar Endereco";"Cartao Consultar Saldo";"Cartao Consultar Extrato";"Cartao Consultar Financiado";"Administracao Consultar";"Administracao Cancelar";"Administracao Manutencao Rede Consultar";"Cheque Bloquear";"Telefone Recarregar";"Lote Processar"
+servico="consultar"
+
+
+
+
+
+01/10/2010 10:09:05 - REQUISI플O AO V&SPague
+sequencial="53"
+servico="finalizar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+01/10/2010 10:09:05 - RESPOSTA
+sequencial="53"
+retorno="1"
+servico="finalizar"
+versao="11x"
+aplicacao="Dot Company"
+
+
+
+
+
+01/10/2010 10:10:02 - REQUISI플O AO V&SPague
+sequencial="54"
+servico="iniciar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+01/10/2010 10:10:02 - RESPOSTA
+sequencial="54"
+retorno="1"
+servico="iniciar"
+versao="2.0.4"
+aplicacao="V&SPagueClient"
+
+
+
+
+
+01/10/2010 10:10:02 - REQUISI플O AO V&SPague
+sequencial="55"
+servico="executar"
+retorno="1"
+transacao="Administracao Cancelar"
+
+
+01/10/2010 10:30:38 - REQUISI플O AO V&SPague
+sequencial="56"
+servico="iniciar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+01/10/2010 10:30:38 - RESPOSTA
+sequencial="56"
+retorno="1"
+servico="iniciar"
+versao="2.0.4"
+aplicacao="V&SPagueClient"
+
+
+
+
+
+01/10/2010 10:30:38 - REQUISI플O AO V&SPague
+sequencial="57"
+servico="consultar"
+retorno="1"
+
+
+01/10/2010 10:30:38 - RESPOSTA
+sequencial="57"
+retorno="1"
+mensagem="Administracao Extrato";"Administracao Manutencao Rede";"Administracao Pendente";"Client Atualizar";"Client Ativar";"Client Desativar";"Cartao Vender";"Cartao Sacar";"Cartao Pre-autorizacao Solicitar";"Cartao Pre-autorizacao Capturar";"Cartao Fatura Pagar";"Cheque Consultar";"Administracao Reimprimir";"Conta Pagar";"Cartao Consultar Endereco";"Cartao Consultar Saldo";"Cartao Consultar Extrato";"Cartao Consultar Financiado";"Administracao Consultar";"Administracao Cancelar";"Administracao Manutencao Rede Consultar";"Cheque Bloquear";"Telefone Recarregar";"Lote Processar"
+servico="consultar"
+
+
+
+
+
+01/10/2010 10:30:38 - REQUISI플O AO V&SPague
+sequencial="58"
+servico="finalizar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+01/10/2010 10:30:38 - RESPOSTA
+sequencial="58"
+retorno="1"
+servico="finalizar"
+versao="11x"
+aplicacao="Dot Company"
+
+
+
+
+
+01/10/2010 10:30:44 - REQUISI플O AO V&SPague
+sequencial="59"
+servico="iniciar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+01/10/2010 10:30:44 - RESPOSTA
+sequencial="59"
+retorno="1"
+servico="iniciar"
+versao="2.0.4"
+aplicacao="V&SPagueClient"
+
+
+
+
+
+01/10/2010 10:30:44 - REQUISI플O AO V&SPague
+sequencial="60"
+servico="consultar"
+retorno="1"
+
+
+01/10/2010 10:30:44 - RESPOSTA
+sequencial="60"
+retorno="1"
+mensagem="Administracao Extrato";"Administracao Manutencao Rede";"Administracao Pendente";"Client Atualizar";"Client Ativar";"Client Desativar";"Cartao Vender";"Cartao Sacar";"Cartao Pre-autorizacao Solicitar";"Cartao Pre-autorizacao Capturar";"Cartao Fatura Pagar";"Cheque Consultar";"Administracao Reimprimir";"Conta Pagar";"Cartao Consultar Endereco";"Cartao Consultar Saldo";"Cartao Consultar Extrato";"Cartao Consultar Financiado";"Administracao Consultar";"Administracao Cancelar";"Administracao Manutencao Rede Consultar";"Cheque Bloquear";"Telefone Recarregar";"Lote Processar"
+servico="consultar"
+
+
+
+
+
+01/10/2010 10:30:44 - REQUISI플O AO V&SPague
+sequencial="61"
+servico="finalizar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+01/10/2010 10:30:44 - RESPOSTA
+sequencial="61"
+retorno="1"
+servico="finalizar"
+versao="11x"
+aplicacao="Dot Company"
+
+
+
+
+
+01/10/2010 10:31:09 - REQUISI플O AO V&SPague
+sequencial="62"
+servico="iniciar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+01/10/2010 10:31:09 - RESPOSTA
+sequencial="62"
+retorno="1"
+servico="iniciar"
+versao="2.0.4"
+aplicacao="V&SPagueClient"
+
+
+
+
+
+01/10/2010 10:31:09 - REQUISI플O AO V&SPague
+sequencial="63"
+servico="executar"
+retorno="1"
+transacao="Administracao Cancelar"
+
+
+01/10/2010 10:31:24 - RESPOSTA
+sequencial="63"
+retorno="6"
+mensagem="lib.graphic.window.VeSWindowAuthenticate$VeSWindowAuthenticateException: [00079]: Autentica豫o cancelada."
+servico="executar"
+transacao="Administracao Cancelar"
+
+
+
+
+
+01/10/2010 10:31:27 - REQUISI플O AO V&SPague
+sequencial="64"
+servico="finalizar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+01/10/2010 10:31:27 - RESPOSTA
+sequencial="64"
+retorno="1"
+servico="finalizar"
+versao="11x"
+aplicacao="Dot Company"
+
+
+
+
+
+01/10/2010 17:13:20 - REQUISI플O AO V&SPague
+sequencial="56"
+servico="iniciar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+01/10/2010 17:13:20 - RESPOSTA
+sequencial="56"
+retorno="1"
+servico="iniciar"
+versao="2.0.4"
+aplicacao="V&SPagueClient"
+
+
+
+
+
+01/10/2010 17:13:20 - REQUISI플O AO V&SPague
+sequencial="57"
+servico="executar"
+retorno="1"
+transacao="Cartao Vender"
+transacao_valor="45.00"
+
+
+01/10/2010 17:14:29 - RESPOSTA
+transacao_valor_taxa_servico="0"
+sequencial="57"
+transacao_nsu="506454"
+retorno="0"
+transacao_pagamento="A vista"
+transacao_autorizacao="144717"
+transacao_rede="Cielo"
+transacao_comprovante_2via="/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+MENSAGEM TBL 9X
+Sixnet
+Av.J.K.1830 - Torre 9And
+Sao Paulo - SP
+
+VISA
+Cielo
+<WCT>89639CF55110D91441E0220609AD7C67</WCT>-12/10
+2a VIA-ESTABELECIMENTO  AUT=144717
+
+0010000244470001/POS=41100000
+DOC=506454  17/07/09  14:37  ONL-D
+VENDA A CREDITO
+
+VALOR:                   45,00
+
+MENSAGEM TBL 7C
+
+____________________________________
+TESTE CARTAO 001
+
+
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+"
+transacao_vencimento="17/08/2009 14:32:09.625"
+transacao_administradora="VISA"
+estabelecimento_codigo="41100000"
+servico="executar"
+transacao_valor="45"
+terminal="T0180001"
+transacao_comprovante_1via="/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+MENSAGEM TBL 9X
+Sixnet
+Av.J.K.1830 - Torre 9And
+Sao Paulo - SP
+
+VISA
+Cielo
+<WCT>89639CF55110D91441E0220609AD7C67</WCT>-12/10
+1a VIA-CLIENTE          AUT=144717
+
+DOC=506454  17/07/09  14:37  ONL-D
+VENDA A CREDITO
+
+VALOR:                   45,00
+
+MENSAGEM TBL 7C
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+"
+loja="Loja018"
+transacao="Cartao Vender"
+estabelecimento="Sixnet"
+transacao_tipo_cartao="Credito"
+
+
+
+
+
+01/10/2010 17:14:29 - REQUISI플O AO V&SPague
+sequencial="58"
+servico="finalizar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+01/10/2010 17:14:30 - RESPOSTA
+sequencial="58"
+retorno="1"
+servico="finalizar"
+versao="11x"
+aplicacao="Dot Company"
+
+
+
+
+
+01/10/2010 17:14:31 - REQUISI플O AO V&SPague
+sequencial="59"
+servico="iniciar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+01/10/2010 17:14:31 - RESPOSTA
+sequencial="59"
+retorno="1"
+servico="iniciar"
+versao="2.0.4"
+aplicacao="V&SPagueClient"
+
+
+
+
+
+01/10/2010 17:14:31 - REQUISI플O AO V&SPague
+sequencial="60"
+servico="executar"
+retorno="1"
+transacao="Cartao Vender"
+transacao_pagamento="A vista"
+transacao_tipo_cartao="Credito"
+transacao_valor="55.00"
+
+
+01/10/2010 17:14:52 - RESPOSTA
+transacao_valor_taxa_servico="0"
+sequencial="60"
+transacao_nsu="506454"
+retorno="0"
+transacao_pagamento="A vista"
+transacao_autorizacao="144717"
+transacao_rede="Cielo"
+transacao_comprovante_2via="/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+MENSAGEM TBL 9X
+Sixnet
+Av.J.K.1830 - Torre 9And
+Sao Paulo - SP
+
+VISA
+Cielo
+<WCT>89639CF55110D91441E0220609AD7C67</WCT>-12/10
+2a VIA-ESTABELECIMENTO  AUT=144717
+
+0010000244470001/POS=41100000
+DOC=506454  17/07/09  14:37  ONL-D
+VENDA A CREDITO
+
+VALOR:                   55,00
+
+MENSAGEM TBL 7C
+
+____________________________________
+TESTE CARTAO 001
+
+
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+"
+transacao_vencimento="17/08/2009 14:32:09.625"
+transacao_administradora="VISA"
+estabelecimento_codigo="41100000"
+servico="executar"
+transacao_valor="55"
+terminal="T0180001"
+transacao_comprovante_1via="/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+MENSAGEM TBL 9X
+Sixnet
+Av.J.K.1830 - Torre 9And
+Sao Paulo - SP
+
+VISA
+Cielo
+<WCT>89639CF55110D91441E0220609AD7C67</WCT>-12/10
+1a VIA-CLIENTE          AUT=144717
+
+DOC=506454  17/07/09  14:37  ONL-D
+VENDA A CREDITO
+
+VALOR:                   55,00
+
+MENSAGEM TBL 7C
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+"
+loja="Loja018"
+transacao="Cartao Vender"
+estabelecimento="Sixnet"
+transacao_tipo_cartao="Credito"
+
+
+
+
+
+01/10/2010 17:14:52 - REQUISI플O AO V&SPague
+sequencial="61"
+servico="finalizar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+01/10/2010 17:14:52 - RESPOSTA
+sequencial="61"
+retorno="1"
+servico="finalizar"
+versao="11x"
+aplicacao="Dot Company"
+
+
+
+
+
+01/10/2010 17:16:49 - REQUISI플O AO V&SPague
+sequencial="62"
+servico="iniciar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+01/10/2010 17:16:49 - RESPOSTA
+sequencial="62"
+retorno="1"
+servico="iniciar"
+versao="2.0.4"
+aplicacao="V&SPagueClient"
+
+
+
+
+
+01/10/2010 17:16:49 - REQUISI플O AO V&SPague
+sequencial="57"
+servico="executar"
+retorno="0"
+transacao="Cartao Vender"
+
+
+01/10/2010 17:16:50 - RESPOSTA
+sequencial="57"
+retorno="1"
+servico="executar"
+transacao="Cartao Vender"
+
+
+
+
+
+01/10/2010 17:16:50 - REQUISI플O AO V&SPague
+sequencial="63"
+servico="iniciar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+01/10/2010 17:16:50 - RESPOSTA
+sequencial="63"
+retorno="1"
+servico="iniciar"
+versao="2.0.4"
+aplicacao="V&SPagueClient"
+
+
+
+
+
+01/10/2010 17:16:50 - REQUISI플O AO V&SPague
+sequencial="60"
+servico="executar"
+retorno="0"
+transacao="Cartao Vender"
+
+
+01/10/2010 17:16:50 - RESPOSTA
+sequencial="60"
+retorno="1"
+servico="executar"
+transacao="Cartao Vender"
+
+
+
+
+
+01/10/2010 17:16:50 - REQUISI플O AO V&SPague
+sequencial="64"
+servico="finalizar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+01/10/2010 17:16:50 - RESPOSTA
+sequencial="64"
+retorno="1"
+servico="finalizar"
+versao="11x"
+aplicacao="Dot Company"
+
+
+
+
+
+05/11/2010 14:26:10 - REQUISI플O AO V&SPague
+sequencial="159"
+servico="iniciar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+05/11/2010 14:26:10 - RESPOSTA
+sequencial="159"
+retorno="1"
+servico="iniciar"
+versao="2.0.4"
+aplicacao="V&SPagueClient"
+
+
+
+
+
+05/11/2010 14:26:10 - REQUISI플O AO V&SPague
+sequencial="160"
+servico="executar"
+retorno="1"
+transacao="Cartao Vender"
+transacao_valor="5.00"
+
+
+05/11/2010 14:27:32 - RESPOSTA
+transacao_valor_taxa_servico="0"
+sequencial="160"
+transacao_nsu="506454"
+retorno="0"
+transacao_pagamento="A vista"
+transacao_autorizacao="144717"
+transacao_rede="Cielo"
+transacao_comprovante_2via="/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+MENSAGEM TBL 9X
+Sixnet
+Av.J.K.1830 - Torre 9And
+Sao Paulo - SP
+
+VISA
+Cielo
+<WCT>89639CF55110D91441E0220609AD7C67</WCT>-12/10
+2a VIA-ESTABELECIMENTO  AUT=144717
+
+0010000244470001/POS=41100000
+DOC=506454  17/07/09  14:37  ONL-D
+VENDA A CREDITO
+
+VALOR:                   5,00
+
+MENSAGEM TBL 7C
+
+____________________________________
+TESTE CARTAO 001
+
+
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+"
+transacao_vencimento="17/08/2009 14:32:09.625"
+transacao_administradora="VISA"
+estabelecimento_codigo="41100000"
+servico="executar"
+transacao_valor="5"
+terminal="T0180001"
+transacao_comprovante_1via="/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+MENSAGEM TBL 9X
+Sixnet
+Av.J.K.1830 - Torre 9And
+Sao Paulo - SP
+
+VISA
+Cielo
+<WCT>89639CF55110D91441E0220609AD7C67</WCT>-12/10
+1a VIA-CLIENTE          AUT=144717
+
+DOC=506454  17/07/09  14:37  ONL-D
+VENDA A CREDITO
+
+VALOR:                   5,00
+
+MENSAGEM TBL 7C
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+"
+loja="Loja018"
+transacao="Cartao Vender"
+estabelecimento="Sixnet"
+transacao_tipo_cartao="Credito"
+
+
+
+
+
+05/11/2010 14:28:39 - REQUISI플O AO V&SPague
+sequencial="160"
+servico="executar"
+retorno="0"
+transacao="Cartao Vender"
+
+
+05/11/2010 14:28:39 - RESPOSTA
+sequencial="160"
+retorno="1"
+servico="executar"
+transacao="Cartao Vender"
+
+
+
+
+
+05/11/2010 14:28:39 - REQUISI플O AO V&SPague
+sequencial="161"
+servico="finalizar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+05/11/2010 14:28:39 - RESPOSTA
+sequencial="161"
+retorno="1"
+servico="finalizar"
+versao="11x"
+aplicacao="Dot Company"
+
+
+
+
+
+05/11/2010 14:29:34 - REQUISI플O AO V&SPague
+sequencial="162"
+servico="iniciar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
+
+05/11/2010 14:30:50 - REQUISI플O AO V&SPague
+sequencial="163"
+servico="iniciar"
+retorno="1"
+aplicacao="Dot Company"
+versao="11x"
+
