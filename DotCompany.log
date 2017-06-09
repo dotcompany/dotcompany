@@ -4598,3 +4598,7 @@ Connection timed out.
 ----------------------------------------------------------------------
 09/03/2015 11:24:50:Cannot perform this operation on a closed dataset
 ----------------------------------------------------------------------
+09/06/2017 02:49:21:Unsuccessful execution caused by a system error that precludes successful execution of subsequent statements.Error reading data from the connection
+----------------------------------------------------------------------
+09/06/2017 02:49:21:Unsuccessful execution caused by a system error that precludes successful execution of subsequent statements.Error reading data from the connection.
+----------------------------------------------------------------------
