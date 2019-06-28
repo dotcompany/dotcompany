@@ -4602,3 +4602,89 @@ Connection timed out.
 ----------------------------------------------------------------------
 09/06/2017 02:49:21:Unsuccessful execution caused by a system error that precludes successful execution of subsequent statements.Error reading data from the connection.
 ----------------------------------------------------------------------
+26/12/2017 13:03:20:Field value required.
+----------------------------------------------------------------------
+03/01/2018 06:06:25:Field value required.
+----------------------------------------------------------------------
+03/01/2018 06:07:24:Access violation at address 01159962 in module 'DotCompany.exe'. Read of address 0000002C
+----------------------------------------------------------------------
+03/01/2018 06:16:10:Access violation at address 01159962 in module 'DotCompany.exe'. Read of address 0000002C
+----------------------------------------------------------------------
+03/01/2018 06:28:15:Access violation at address 01159962 in module 'DotCompany.exe'. Read of address 0000002C
+----------------------------------------------------------------------
+03/01/2018 06:28:32:Access violation at address 01159962 in module 'DotCompany.exe'. Read of address 0000002C
+----------------------------------------------------------------------
+03/01/2018 06:30:08:Undefined name.Dynamic SQL ErrorSQL error code = -204Table unknownPARAMETROSAt line 1, column 15
+----------------------------------------------------------------------
+04/01/2018 11:36:06:Unsuccessful execution caused by a system error that precludes successful execution of subsequent statements.I/O error during "CreateFile (open)" operation for file "C:\DOTCOMPANY\DB\AUTOMOTIVO.FDB"Error while trying to open fileO sistema não pode encontrar o caminho especificado. 
+----------------------------------------------------------------------
+22/01/2018 09:16:59:Cannot open file "C:\dotcompany\WindowsKey.txt". The system cannot find the file specified
+----------------------------------------------------------------------
+22/01/2018 09:17:22:Cannot open file "C:\dotcompany\WindowsKey.txt". The system cannot find the file specified
+----------------------------------------------------------------------
+24/01/2018 08:31:19:Cannot open file "C:\dotcompany\WindowsKey.txt". The system cannot find the file specified
+----------------------------------------------------------------------
+26/01/2018 10:33:34:Cannot open file "C:\dotcompany\WindowsKey.txt". The system cannot find the file specified
+----------------------------------------------------------------------
+26/01/2018 11:05:41:Cannot open file "C:\dotcompany\WindowsKey.txt". O sistema não pode encontrar o arquivo especificado
+----------------------------------------------------------------------
+30/01/2018 09:53:41:Cannot open file "C:\dotcompany\WindowsKey.txt". O sistema não pode encontrar o arquivo especificado
+----------------------------------------------------------------------
+03/02/2018 08:17:27:Cannot open file "C:\DotCompany\WindowsKey.txt". The system cannot find the file specified
+----------------------------------------------------------------------
+06/02/2018 15:50:56:Cannot open file "C:\dotcompany\WindowsKey.txt". O sistema não pode encontrar o arquivo especificado
+----------------------------------------------------------------------
+07/02/2018 10:10:48:Cannot open file "C:\dotcompany\WindowsKey.txt". O sistema não pode encontrar o arquivo especificado
+----------------------------------------------------------------------
+16/02/2018 09:28:49:Cannot open file "C:\dotcompany\WindowsKey.txt". The system cannot find the file specified
+----------------------------------------------------------------------
+16/02/2018 14:50:35:Cannot open file "C:\dotcompany\WindowsKey.txt". O sistema não pode encontrar o arquivo especificado
+----------------------------------------------------------------------
+19/02/2018 13:55:27:Cannot open file "C:\dotcompany\WindowsKey.txt". O sistema não pode encontrar o arquivo especificado
+----------------------------------------------------------------------
+28/02/2018 10:47:11:Cannot open file "C:\dotcompany\WindowsKey.txt". O sistema não pode encontrar o arquivo especificado
+----------------------------------------------------------------------
+01/03/2018 17:32:56:Cannot open file "C:\DotCompany\WindowsKey.txt". The system cannot find the file specified
+----------------------------------------------------------------------
+01/03/2018 17:32:57:Cannot open file "C:\DotCompany\WindowsKey.txt". The system cannot find the file specified
+----------------------------------------------------------------------
+01/03/2018 17:34:19:Cannot open file "C:\DotCompany\WindowsKey.txt". The system cannot find the file specified
+----------------------------------------------------------------------
+01/03/2018 18:33:34:Cannot open file "C:\dotcompany\WindowsKey.txt". O sistema não pode encontrar o arquivo especificado
+----------------------------------------------------------------------
+15/03/2018 08:03:09:Cannot open file "C:\DotCompany\WindowsKey.txt". The system cannot find the file specified
+----------------------------------------------------------------------
+17/03/2018 10:58:48:Cannot open file "C:\DotCompany\WindowsKey.txt". The system cannot find the file specified
+----------------------------------------------------------------------
+27/03/2018 10:17:50:Cannot open file "C:\dotcompany\WindowsKey.txt". O sistema não pode encontrar o arquivo especificado
+----------------------------------------------------------------------
+06/04/2018 10:42:04:Cannot open file "C:\dotcompany\WindowsKey.txt". O sistema não pode encontrar o arquivo especificado
+----------------------------------------------------------------------
+06/04/2018 18:02:30:Cannot open file "C:\dotcompany\WindowsKey.txt". O sistema não pode encontrar o arquivo especificado
+----------------------------------------------------------------------
+18/04/2018 14:01:14:Cannot open file "C:\DotCompany\WindowsKey.txt". The system cannot find the file specified
+----------------------------------------------------------------------
+10/05/2018 12:09:09:Cannot open file "C:\dotcompany\WindowsKey.txt". O sistema não pode encontrar o arquivo especificado
+----------------------------------------------------------------------
+11/05/2018 09:18:46:Cannot open file "C:\dotcompany\WindowsKey.txt". O sistema não pode encontrar o arquivo especificado
+----------------------------------------------------------------------
+24/05/2018 07:31:12:Cannot open file "C:\dotcompany\WindowsKey.txt". O sistema não pode encontrar o arquivo especificado
+----------------------------------------------------------------------
+05/06/2018 11:41:22:Cannot open file "C:\DotCompany\WindowsKey.txt". O sistema não pode encontrar o arquivo especificado
+----------------------------------------------------------------------
+05/06/2018 20:42:12:Cannot open file "C:\dotcompany\WindowsKey.txt". O sistema não pode encontrar o arquivo especificado
+----------------------------------------------------------------------
+07/06/2018 17:50:41:Cannot open file "C:\DotCompany\WindowsKey.txt". The system cannot find the file specified
+----------------------------------------------------------------------
+25/09/2018 09:17:03:Cannot open file "C:\DotCompany\WindowsKey.txt". O sistema não pode encontrar o arquivo especificado
+----------------------------------------------------------------------
+03/10/2018 20:08:56:Cannot open file "C:\DotCompany\WindowsKey.txt". O sistema não pode encontrar o arquivo especificado
+----------------------------------------------------------------------
+29/01/2019 15:50:36:Cannot open file "C:\DotCompany\WindowsKey.txt". O sistema não pode encontrar o arquivo especificado
+----------------------------------------------------------------------
+29/01/2019 15:50:47:Cannot open file "C:\DotCompany\WindowsKey.txt". O sistema não pode encontrar o arquivo especificado
+----------------------------------------------------------------------
+11/05/2019 10:45:55:Cannot open file "C:\DotCompany\WindowsKey.txt". O sistema não pode encontrar o arquivo especificado
+----------------------------------------------------------------------
+11/05/2019 10:46:15:Cannot open file "C:\DotCompany\WindowsKey.txt". O sistema não pode encontrar o arquivo especificado
+----------------------------------------------------------------------

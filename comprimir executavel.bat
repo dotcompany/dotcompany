@@ -1,0 +1,2 @@
+UPX "DotCompany.exe"
+pause
